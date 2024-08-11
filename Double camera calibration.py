@@ -3,8 +3,7 @@ import cv2
 import numpy as np
 import matplotlib.pylab as plt
 import os
-                                                    #该模块为相机标定模块
-                                                    #该模块标定实现代码为他人模板
+
 
 print("当前工作目录:", os.getcwd())
 plt.rcParams['font.sans-serif'] = ['SimHei']
